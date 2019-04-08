@@ -44,7 +44,7 @@ MongoDB
 
 Express
 
-Reactjs
+React
 
 Nodejs
 

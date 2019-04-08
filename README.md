@@ -1,16 +1,52 @@
-##EAT MY SHORTS
+## EAT MY SHORTS
 
-The Eat My Shorts app will serve as a companion piece to complement the current podcast available on Spotify/ Apple pODCASTS.
+## Overview
 
-The app will serve as a tracker for the show hosts to known which episodes they have already published and which episodes are still needed in the context of the material covered. An example would be that the hosts can look at the entries on the app, and see that they have covered 4 episodes from season 6 no episodes from season 2.
+The Eat My Shorts app will serve as a companion piece to complement the current podcast available on Spotify/ Apple Podcasts.
 
+The app will serve as a tracker for the show hosts to know which episodes they have already published and which episodes are still needed in the context of the material covered. An example would be that the hosts can look at the entries on the app, and see that they have covered 4 episodes from season 6 no episodes from season 2.
 
+A user will be able to see original content derived by episode, including show notes, and tracking information such as date of origin, characters referenced, and ongoing show segments that may have been referenced in the podcast.
 
+## Registration
 
+As a user: I want the ability to see different levels of access on the Eat My Shorts app.
 
+The "Fan" user will have access to list items in the "Shop" view and will be able to comment on any "Episode" entry once they have logged in.
 
+The "Fan" will have access to comment on episode entries, rate the episode entries once they have logged in.
+
+The Guest will have access to view all "Episode" entries uploaded to the app, but would need to login or register for the app to access "Comment", or the "Rate" features.
+
+A "Fan" will only be able to use the features outlined above by successfully using the "sign-in" button on initial log-in.
+
+A guest can only use the features outlined above after successfully signing-in.
+
+## Episode Entries
+
+As a user: I want to see the “Episode Entry” on an individual entry for each post.  The view will allow the user to view the entry details including Episode title, year of origin, Show notes from the hosts, and original artwork made by the hosts for the episode.  The user will be able to leave a comment if they have registered.  A registered user will also be able to rate each episode on this entry.
+
+## Home Page
+
+As a user: I want the “Home Page” to be available for a user who has signed-in upon clicking "Log-in" or completion of "Sign-up", and for a Guest who has not registered or logged in.
+
+The home page will allow the user to see "Episode" posts that have been uploaded by the podcast hosts.
+
+The "home page" view will allow me to click on an individual "Episode" entry, and upon clicking, the user will be taken to that "Episode" until the user decides to navigate away.
+
+The home page will also show the new entries that the hosts upload.
+
+## Technologies Used
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+MongoDB
+
+Express
+
+Reactjs
+
+Nodejs
 
 ## Available Scripts
 

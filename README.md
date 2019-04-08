@@ -4,7 +4,7 @@
 
 The Eat My Shorts app will serve as a companion piece to complement the current podcast available on Spotify/ Apple Podcasts.
 
-The app will serve as a tracker for the show hosts to know which episodes they have already published and which episodes are still needed in the context of the material covered. An example would be that the hosts can look at the entries on the app, and see that they have covered 4 episodes from season 6 and no episodes from season 2, this visual aid will not only enhance the show prep, but it will also allow fans to look at the data the show hosts have for each episode, setting up to be a "premium feature" that can be given to Patreon subscribers.
+The app will serve as a tracker for the show hosts to know which episodes they have already published and which episodes are still needed in the context of the material covered. An example would be that the hosts can look at the entries on the app, and see that they have covered 4 episodes from season 6 and no episodes from season 2, this visual aid will not only enhance the show prep, but it will also allow fans to look at the data the show hosts have for each episode, setting up to be a "premium feature" that can be given to Patreon subscribers. Adversely, the show hosts can use the data taken from the "episode ratings" to engage with listeners and be used as a sort of "market reasearch" to help develop future plots and episode topics.
 
 A user will be able to see original content derived by episode, including show notes, and tracking information such as date of origin, characters referenced, and ongoing show segments that may have been referenced in the podcast.
 
